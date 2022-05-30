@@ -5,7 +5,7 @@ File Layout:
 - signup.html
 - layout.css
 - images
-    - welcome-image.jpg
+    - welcome-image.jpeg
     - header-image.png
     - staff-2021.jpg
     - staff-2020.jpg
@@ -32,11 +32,11 @@ Top Page Layout:
     - Background color: #5c6d5f;
 
 H1:
-- color: white;
-- font-size: 44px;
+- color: black;
+- font-size: 36px;
 - font-family: roboto-bold, roboto, sans-serif;
 
 H2:
 - color: white;
-- font-size: 44px;
+- font-size: 20px;
 - font-family: roboto-bold, roboto, sans-serif;

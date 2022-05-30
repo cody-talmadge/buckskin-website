@@ -9,7 +9,7 @@ body {
 #header-image {
     display: block;
     margin-left: auto;
-    margin-right: 15%;
+    margin-right: 10%;
     margin-bottom: -10px;
     height: 50px;
 }
@@ -17,8 +17,8 @@ body {
 #header-bar {
     background-color: #5c6d5f;
     display: flex;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
     justify-content: space-between;
     align-items: center;
 }
@@ -54,8 +54,45 @@ body {
 .navbar-link {
     text-decoration: none;
     color: white;
-    margin-left: 50px;
+    margin-left: 30px;
     vertical-align: middle;
-    font-size: 24px;
+    font-size: 18px;
+    font-family: roboto-bold, roboto, sans-serif;
+}
+
+h1 {
+    color: black;
+    font-size: 36px;
+    font-family: roboto-bold, roboto, sans-serif;
+}
+
+#main-content {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: -50px;
+    padding-top: 50px;
+    background-color: #D6CEBC;
+}
+
+#info-panel-section {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+
+.info-panel {
+    width: 30%;
+    text-align: center;
+    background-color: #5c6d5f;
+    color: white;
+    font-family: roboto-bold, roboto, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+}
+
+h2 {
+    color: white;
+    font-size: 20px;
     font-family: roboto-bold, roboto, sans-serif;
 }
