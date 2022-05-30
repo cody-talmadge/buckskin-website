@@ -17,24 +17,26 @@ File Layout:
 Top Page Layout:
 - Navbar Title
     - Line 1
-        - font-color: white;
+        - color: white;
         - font-size: 44px;
         - font-family: roboto-bold, roboto, sans-serif;
     - Line 2
-        - font-color: white;
+        - color: white;
         - font-size: 24px;
         - font-family: roboto-bold, roboto, sans-serif;
 - Right Links
-    - font-color: white;
+    - color: white;
     - font-size: 18px;
     - font-family: roboto-bold, roboto, sans-serif;
+- Navbar
+    - Background color: #5c6d5f;
 
 H1:
-- font-color: white;
+- color: white;
 - font-size: 44px;
 - font-family: roboto-bold, roboto, sans-serif;
 
 H2:
-- font-color: white;
+- color: white;
 - font-size: 44px;
 - font-family: roboto-bold, roboto, sans-serif;
