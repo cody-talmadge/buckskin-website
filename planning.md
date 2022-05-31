@@ -7,12 +7,12 @@ File Layout:
 - images
     - welcome-image.jpeg
     - header-image.png
-    - staff-2021.jpg
-    - staff-2020.jpg
-    - staff-2019.jpg
-    - staff-2018.jpg
-    - staff-2017.jpg
-    - stall-2016.jpg
+    - staff-2021.jpeg
+    - staff-2019.jpeg
+    - staff-2018.jpeg
+    - staff-2017.jpeg
+    - staff-2016.jpeg
+    - staff-2015.webp
 
 Top Page Layout:
 - Navbar Title
