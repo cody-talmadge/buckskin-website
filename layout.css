@@ -123,3 +123,26 @@ h2 {
     font-size: 16px;
     font-family: roboto-bold, roboto, sans-serif;
 }
+
+.signup-form {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+}
+
+fieldset {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+label {
+    font-size: 16px;
+    font-family: roboto-bold, roboto, sans-serif;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+
+}
